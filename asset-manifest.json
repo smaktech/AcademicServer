@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/AcademicServer/static/js/main.7265f521.js",
+    "index.html": "/AcademicServer/index.html",
+    "main.7265f521.js.map": "/AcademicServer/static/js/main.7265f521.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7265f521.js"
+  ]
+}
